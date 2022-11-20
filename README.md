@@ -1,2 +1,5 @@
 # Tabalho Compiladores G2
-Nome: Jonathan Pertile Morales 
+<b> Nome: Jonathan Pertile Morales </b>
+
+pip install -r requirements.txt
+python logo.ply
