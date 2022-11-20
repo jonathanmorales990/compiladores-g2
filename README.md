@@ -1,2 +1,2 @@
-# compiladores-g2
-compiladores-g2
+# Tabalho Compiladores G2
+# Nome: Jonathan Pertile Morales 
