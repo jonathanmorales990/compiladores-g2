@@ -209,5 +209,4 @@ expression = """
     1 + 1
 """
 expression_result = parser.parse(expression)
-print(expression_result)
 print(dump(expression_result, sort_keys=False, indent=2))
