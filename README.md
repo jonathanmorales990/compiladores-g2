@@ -1,5 +1,6 @@
-# Tabalho Compiladores - Feito em trio G2
+# Tabalho Compiladores G2 - Feito em trio 
 <b> Integrantes: 
+  <br>
   Jonathan Pertile Morales - 
   <br>
   Guilherme Berghann Bach - 201420093
