@@ -2,6 +2,7 @@ from ply.lex import lex
 from ply.yacc import yacc
 from yaml import dump
 
+
 tokens = (
     'TO',
     'ID',
