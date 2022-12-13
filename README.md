@@ -5,7 +5,7 @@
   <br>
   Guilherme Berghann Bach - 201420093
   <br>
-  Ricardo Kowalski da Cruz - 
+  Ricardo Kovalski Cruz - 201310256
 </b>
 
 pip install -r requirements.txt
