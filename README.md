@@ -1,4 +1,4 @@
-# Tabalho Compiladores G2 - Feito em trio 
+# Tabalho Compiladores G2
 <b> Integrantes: 
   <br>
   Jonathan Pertile Morales - 201410998
